@@ -6,6 +6,7 @@ Lovely Cute Delta 3D Printer
 
 # Speedboat Results
 
+Results of previous version
 https://youtu.be/L66GWry6J9g?si=lEijJ87CRv5NcKGo
 
 
