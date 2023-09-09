@@ -5,7 +5,8 @@ Lovely Cute Delta 3D Printer
 <img width="509" alt="O9gZjI5WwEt3TC61694140414_1694140564" src="https://github.com/oicchahan/Kuromi/assets/95489311/4d7f48f8-ddf5-48d8-ab67-eb9b0bc36e7f">
 
 
-[![mymelo](https://github.com/oicchahan/Kuromi/assets/95489311/26368d6d-df9b-4728-85a0-94af15727ed2)](https://youtu.be/L66GWry6J9g?si=9hequl2F2WKWpXWM)
+　Speedboat Results
+https://youtu.be/L66GWry6J9g?si=lEijJ87CRv5NcKGo
 
 
 
