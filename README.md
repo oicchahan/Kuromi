@@ -1,18 +1,17 @@
 # Kuromi
 Lovely Cute Delta 3D Printer
-![F5bY_1caMAAkxUu](https://github.com/oicchahan/Kuromi/assets/95489311/baa26351-4f3e-4712-89ca-dbf4fe181ed2)
+![F5bY_1caMAAkxUu](https://github.com/oicchahan/Kuromi/assets/95489311/a0a837d9-0c72-4889-9f68-1f2d2e6ebca8)
 
-<img width="509" alt="O9gZjI5WwEt3TC61694140414_1694140564" src="https://github.com/oicchahan/Kuromi/assets/95489311/4d7f48f8-ddf5-48d8-ab67-eb9b0bc36e7f">
-
-<img width="500" alt="Q3vzhGtqQgnHPvk1694246053_1694246215" src="https://github.com/oicchahan/Kuromi/assets/95489311/eb9f2bb4-77e0-436d-a116-87aa087ae06c">
-
-<img width="500" alt="oU4vJx0spG9uX8u1694246422_1694246491" src="https://github.com/oicchahan/Kuromi/assets/95489311/a58f9fbf-33fa-44c4-84f5-28f587e638cc">
+<img width="400" alt="O9gZjI5WwEt3TC61694140414_1694140564" src="https://github.com/oicchahan/Kuromi/assets/95489311/e8ae1752-83d1-4dc4-9793-f86d057484c9">
+<img width="400" alt="Q3vzhGtqQgnHPvk1694246053_1694246215" src="https://github.com/oicchahan/Kuromi/assets/95489311/c55382d3-22fb-4dcc-ad09-763b048f1216">
+<img width="400" alt="oU4vJx0spG9uX8u1694246422_1694246491" src="https://github.com/oicchahan/Kuromi/assets/95489311/22bf77f9-a39d-4dc1-9c59-1b87b2366c99">
 
 
 # Speedboat Results
 
 Results of previous version
 https://youtu.be/L66GWry6J9g?si=lEijJ87CRv5NcKGo
+![IMG_E1A6F6DE60BB-1](https://github.com/oicchahan/Kuromi/assets/95489311/4c64c9ea-a05b-46e5-8f77-21894d74a82a)
 
 
 
