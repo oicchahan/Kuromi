@@ -4,6 +4,8 @@ Lovely Cute Delta 3D Printer
 
 ![9sIhyG810MdVCw01694273307_1694273492](https://github.com/oicchahan/Kuromi/assets/95489311/75395acf-e412-449e-987f-8445877cbd6f)
 
+![FckybpfBjfzMIMV1695222331_1695222445](https://github.com/oicchahan/Kuromi/assets/95489311/3c649343-440c-486d-a5bf-285505ef46cb)
+
 
 
 ### Probe Ideas
